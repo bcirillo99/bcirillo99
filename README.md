@@ -1,5 +1,5 @@
 ### Hi there, I'm @bcirillo99 👋
-- 🔭 I'm currently pursuing some topics related to Artificial Vision, Cognitive Robotics, AI applied to Cyber Security and Data Analysis at the University of Salerno.
+- 🔭 I'm currently deepening some topics related to Artificial Vision, Cognitive Robotics, AI applied to Cyber Security and Data Analysis at the University of Salerno.
 - 👨‍🎓 I’m a Computer Engineer and I'm attending the final year of my master's degree in computer engineering with the curriculum in artificial inteligence at University of Salerno.
 - 👀 I am a guy who has many interests, such as computer science (especially what concerns artificial intelligence), sports, music, TV series and movies.
 
