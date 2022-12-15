@@ -6,7 +6,7 @@
 ## Digital Skills 💻
 - **Tools**: Git, Svn, Docker, PostgreSQL
 - **Framework**: PyTorch, Keras, TensorFlow, CUDA, Hadoop, Spark, OpenMP, MPICH
-- **Programming**: Front‐end Back‐end C, Java, Python, PL/pgSQL, JavaScript, R, Matlab
+- **Programming**: C, Java, Python, PL/pgSQL, JavaScript, R, Matlab
 - **Front-end**: HTML, CSS, Bootstrap 5, JQuery
 - **Back-end**: PHP
 <!--
