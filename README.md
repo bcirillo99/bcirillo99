@@ -43,6 +43,9 @@ Hi there  👋
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
 - **Back-end**: <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
 
+## My stats 📊
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bcirillo99&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **bcirillo99/bcirillo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
