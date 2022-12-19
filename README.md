@@ -35,26 +35,14 @@ Hi there  👋
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;PL/pgSQL
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
+  <img src="https://www.todopostgresql.com/wp-content/uploads/2018/09/cursoPlpgsql.png" title="Plpgsql" alt="Plpgsql" width="40" height="40"/>&nbsp;
 - **Front-end**: <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
 - **Back-end**: <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-- **Back-end**:
--  
-<img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" title="keras" alt="keras" width="40" height="40"/>&nbsp;
-<img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" title="cuda" alt="cuda" width="40" height="40"/>&nbsp;
-<img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/hadoop.svg" title="hadoop" alt="hadoop" width="80" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="spark" alt="spark" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" title="openMP" alt="openMP" width="40" height="40"/>&nbsp;
-<img src="https://1.bp.blogspot.com/-8ElZWf7qm9I/XgU9F1rYoYI/AAAAAAAAUbs/zxRzJzUKrpIE3noj0GWRO-TMs6L8YEy2gCLcBGAsYHQ/s1600/MPI-logo.PNG" title="MPIHC" alt="MPICH" width="40" height="40"/>&nbsp;
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_Subversion_logo.svg" title="svn" alt="svn" width="40" height="40"/>&nbsp;
-https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_Subversion_logo.svg
-## My stats 📊
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bcirillo99&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **bcirillo99/bcirillo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
