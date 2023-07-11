@@ -5,9 +5,8 @@ Hi there  👋
 </h1>
 
 ## I'm Benedetto Cirillo 👨‍💻
-- 🔭 I'm currently deepening some topics related to Artificial Vision, Cognitive Robotics, AI applied to Cyber Security and Data Analysis at the University of Salerno.
+- 🔭 I'm currently deepening some topics related to Artificial Vision, Cognitive Robotics, AI applied to Cyber Security, Statistical Data Analysis, Social Netwrok Analysis and Autonomus Vehicle Driving at the University of Salerno.
 - 👨‍🎓 I’m a Computer Engineer and I'm attending the final year of my master's degree in computer engineering with the curriculum in Artificial Inteligence at University of Salerno.
-- 👀 I am a guy who has many interests, such as computer science (especially what concerns artificial intelligence), sports, music, TV series and movies.
 ## Digital Skills 💻
 - **Tools**:<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_Subversion_logo.svg" title="svn" alt="svn" width="30" height="30"/>&nbsp;
