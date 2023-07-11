@@ -3,9 +3,6 @@
 <h1 align="center">
 Hi there  👋
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
-</div>
 
 ## I'm Benedetto Cirillo 👨‍💻
 - 🔭 I'm currently deepening some topics related to Artificial Vision, Cognitive Robotics, AI applied to Cyber Security and Data Analysis at the University of Salerno.
