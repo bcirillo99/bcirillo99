@@ -36,7 +36,7 @@ Hi there  👋
 
 ## Contacts 📭
 
-- <a  href="https://www.linkedin.com/in/benedetto-cirillo-9254b4237/" ><img src="https://img.shields.io/badge/-BenedettoCirillo-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+- <a  href="https://www.linkedin.com/in/benedettocirillo1999" ><img src="https://img.shields.io/badge/-BenedettoCirillo-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 - <a  href="mailto:benedetto99@live.com" ><img src="https://img.shields.io/badge/📩-Mail-brightgreen" alt="Mail Badge" />
 
