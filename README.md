@@ -5,7 +5,6 @@ Hi there  👋
 </h1>
 
 ## I'm Benedetto Cirillo 👨‍💻
-- 🔭 I'm currently deepening some topics related to Artificial Vision, Cognitive Robotics, AI applied to Cyber Security, Statistical Data Analysis, Social Netwrok Analysis and Autonomous Vehicle Driving at the University of Salerno.
 - 👨‍🎓 I am Benedetto Cirillo, a 24 years old computer engineer and master's student in computer engineering, Artificial Intelligence curriculum, at the University of Salerno. I am near the end of developing my master's thesis at the University of Groningen (RUG), where I have joined a research group at the Bernoulli Institute dedicated to the use of innovative machine learning methods for the detection of neurodegenerative diseases in a way that improves performance without losing explainability through advanced feature relevance analysis techniques
 ## Digital Skills 💻
 - **Tools**:<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
