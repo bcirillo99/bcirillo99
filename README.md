@@ -5,7 +5,40 @@ Hi there  👋
 </h1>
 
 ## I'm Benedetto Cirillo 👨‍💻
-- 👨‍🎓 I am Benedetto Cirillo, a 24 years old computer engineer and master's student in computer engineering, Artificial Intelligence curriculum, at the University of Salerno. I am near the end of developing my master's thesis at the University of Groningen (RUG), where I have joined a research group at the Bernoulli Institute dedicated to the use of innovative machine learning methods for the detection of neurodegenerative diseases in a way that improves performance without losing explainability through advanced feature relevance analysis techniques
+a computer engineer who is passionate about AI world. I have just graduated with a master's degree in Computer Engineering from the University of Salerno, with an Artificial Intelligence and Intelligent Robotics specialization. 
+
+As someone who is meticulous and deeply committed to his work, I am excited to leverage my enthusiasm for designing AI software and systems that have a meaningful impact. I want to drive technological progress and make a real impact on the world through innovative ideas.
+
+## 🎓 Academic Background
+
+**Master's Degree in Computer Engineering – Univeristy of Salerno 🇮🇹**
+- **110/110 summa cum Laude**.
+- GPA: 28.15/30.
+- Curriculum: Artificial Intelligence and Intelligent Robotics.
+- MSc thesis "Iterated Relevance Matrix Analysis (IRMA)-based Classifiers for Neurodegenerative Disease Detection", focused on machine learning methods in medical science and health care.
+  
+**Exchange Program – University of Groningen 🇳🇱**
+
+For five months I developed my master's thesis at the Bernoulli Institute of the University of Groningen (RUG) by taking part in a research project on machine learning methods for detecting neurodegenerative diseases. The name of my master thesis project is '_Iterated Relevance Matrix Analysis-Based Classifiers for Neurodegenerative Disease Detection_'.
+
+**Bachelor's Degree in Computer Engineering – Univeristy of Salerno 🇮🇹**
+- **110/110 summa cum Laude**.
+- GPA: 28.6/30.
+
+## 🏅 Honors and Awards
+
+- First Ascent 2024: selected as one of the 20 most promising students by [Bending Spoons]("https://bendingspoons.com")
+- Certificate of Merit: for an excellent academic career, having graduated with a bachelor's degree in computer engineering in 2021 with 110 summa cum Laude in 34 months.
+
+## 👨‍💻 Main Projects
+
+- Artificial Vision: [Artificial Vision](https://github.com/bcirillo99/Artificial-Vision) (Multi-expert system for Age estimation)
+- Artificial intelligence for Cyber Security: [malware_detection](https://github.com/bcirillo99/malware_detection)
+- Social Network Analysis: [Social Network Analysis](https://github.com/bcirillo99/SocialNetworkAnalysis) (Network Identification & Mechanisms on Weighted Social Networks with Unknown Weights)
+- Autonomous Vehicle Driving: [AVD](https://github.com/stefano-damato/AVD)
+- Cognitive Robotics: [Cognitive-Robotics](https://github.com/stefano-damato/Cognitive-Robotics)
+
+
 ## Digital Skills 💻
 - **Tools**:<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_Subversion_logo.svg" title="svn" alt="svn" width="30" height="30"/>&nbsp;
